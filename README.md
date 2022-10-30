@@ -1,7 +1,7 @@
 # Group 44
 Group Name: TEAM_NAME
 
-[MVP Link](http://cs196.cs.illinois.edu)
+[MVP Link](https://docs.google.com/document/d/1xsrPvBe_NC9N48w7NYFNOcmrh7X11rY6nRhtzhn8yG0/edit?usp=sharing)
 
 Team Members: 
 sz64
